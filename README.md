@@ -1,6 +1,6 @@
 # Node.js REST API
 
-A learning project demonstrating REST API development with Node.js, Express, TypeScript, and MongoDB.
+A learning project demonstrating REST API development with Node.js, Express, TypeScript, Prisma and PostgreSQL.
 
 ## Features
 
